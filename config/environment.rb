@@ -40,9 +40,3 @@ Twitter.configure do |config|
   config.consumer_secret = ENV['TWITTER_SECRET']
 end
 
-# Twitter.configure do |config|
-#   config.consumer_key = 'XtepiWcGFh9reYudRP69wA'
-#   config.consumer_secret = 'uWv9Kow4SUCVL9zg0pxNzOyUoXwdmy4FreYZ4IuxVg'
-#   config.oauth_token = '17456158-YeHPfBaXJA8r8d1xUv58wOMTyg5jnMuHpupGqQuDU'
-#   config.oauth_token_secret = 'ywfjBlwLEyYLzEkzO820r4EUZIZwMxb20T9d3woN8'
-# end
